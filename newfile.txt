@@ -1,2 +1,0 @@
-hello 
-created from git branch1
